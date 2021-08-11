@@ -40,9 +40,9 @@ yarn add react-split-pane
 
 ## live examples
 
-- infinite scroll (never ending) example using react (body/window scroll)
-  - [![Edit yk7637p62z](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/yk7637p62z)
-- infinte scroll till 500 elements (body/window scroll)
+- Vertical Split-pane Example
+  - [![Edit yk7637p62z](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/affectionate-yonath-nxgs3?file=/src/App.js)
+- Horizontal Split-pane Example
   - [![Edit 439v8rmqm0](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/439v8rmqm0)
 - infinite scroll in an element (div of height 400px)
   - [![Edit w3w89k7x8](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/w3w89k7x8)
