@@ -43,7 +43,7 @@ yarn add react-split-pane
 - Vertical Split-pane Example
   - [![Edit yk7637p62z](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/affectionate-yonath-nxgs3?file=/src/App.js)
 - Horizontal Split-pane Example
-  - [![Edit 439v8rmqm0](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/439v8rmqm0)
+  - [![Edit 439v8rmqm0](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/loving-perlman-xv6ko?file=/src/MultipleHorizontal.js)
 - infinite scroll in an element (div of height 400px)
   - [![Edit w3w89k7x8](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/w3w89k7x8)
 - infinite scroll with `scrollableTarget` (a parent element which is scrollable)
