@@ -38,6 +38,19 @@ yarn add react-split-pane
 </SplitPane>
 ```
 
+## live examples
+
+- infinite scroll (never ending) example using react (body/window scroll)
+  - [![Edit yk7637p62z](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/yk7637p62z)
+- infinte scroll till 500 elements (body/window scroll)
+  - [![Edit 439v8rmqm0](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/439v8rmqm0)
+- infinite scroll in an element (div of height 400px)
+  - [![Edit w3w89k7x8](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/w3w89k7x8)
+- infinite scroll with `scrollableTarget` (a parent element which is scrollable)
+  - [![Edit r7rp40n0zm](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/r7rp40n0zm)
+
+
+
 ## Props
 
 ### primary
