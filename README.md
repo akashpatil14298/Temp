@@ -46,8 +46,6 @@ yarn add react-split-pane
   - [![Edit 439v8rmqm0](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/loving-perlman-xv6ko?file=/src/MultipleHorizontal.js)
 - Nested Split-pane Example
   - [![Edit w3w89k7x8](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/trusting-pascal-vr1fk?file=/src/Nested.js)
-- infinite scroll with `scrollableTarget` (a parent element which is scrollable)
-  - [![Edit r7rp40n0zm](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/r7rp40n0zm)
 
 
 
